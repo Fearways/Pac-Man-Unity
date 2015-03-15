@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: f724f5e9026ec794e9b6955d114f2469
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Light Blue Ghost_Right_0
+    21300002: Light Blue Ghost_Right_1
+    21300004: Light Blue Ghost_Down_0
+    21300006: Light Blue Ghost_Down_1
+    21300008: Light Blue Ghost_Left_0
+    21300010: Light Blue Ghost_Left_1
+    21300012: Light Blue Ghost_Up_0
+    21300014: Light Blue Ghost_Up_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 6
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Light Blue Ghost_Right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+    - name: Light Blue Ghost_Right_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 101
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+    - name: Light Blue Ghost_Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Blue Ghost_Down_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 69
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+    - name: Light Blue Ghost_Left_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 1, z: 0, w: 1}
+    - name: Light Blue Ghost_Left_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 37
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Blue Ghost_Up_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Blue Ghost_Up_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 5
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
